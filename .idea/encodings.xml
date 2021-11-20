@@ -10,8 +10,21 @@
     <file url="file://$PROJECT_DIR$/src/com/wechat/constant/Constant.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/controller/LoginServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/controller/RegisterServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/FriendCircleDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/FriendCircleDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/GroupDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/GroupDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/PhotoDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/PhotoDaoImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/impl/FriendCircleDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/impl/GroupDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/impl/PhotoDaoImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/dao/impl/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/po/CircleFriends.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/po/Comment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/po/Message.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wechat/po/Photo.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/po/User.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/service/IndexService.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/AddressBookImpl.java" charset="GBK" />
