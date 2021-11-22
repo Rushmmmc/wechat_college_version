@@ -7,36 +7,37 @@
     <file url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.23.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/tomcat-websocket.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/websocket-api.jar" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/constant/Constant.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/controller/AddressBookServlet.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/controller/ChatServlet.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/controller/LoginServlet.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/controller/RegisterServlet.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/FriendCircleDao.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/FriendCircleDaoImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/GroupDao.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/GroupDaoImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/PhotoDao.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/PhotoDaoImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/UserDao.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/impl/FriendCircleDaoImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/impl/GroupDaoImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/impl/PhotoDaoImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/dao/impl/UserDaoImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/po/CircleFriends.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/po/Comment.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/po/Message.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/po/Photo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/po/User.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/service/IndexService.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/AddressBookImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/ChatImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/CircleFriendImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/GroupImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/IndexImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/PersonImpl.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/util/DbUtil.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/util/Md5Util.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/AddressBookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/ChatServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/RegisterServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/AddressBookDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/FriendCircleDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/FriendCircleDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/GroupDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/GroupDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/PhotoDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/PhotoDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/impl/FriendCircleDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/impl/GroupDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/impl/PhotoDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/impl/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/model/CircleFriends.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Comment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Message.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Photo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/model/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/IndexService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/AddressBookImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/ChatImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/CircleFriendImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/GroupImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/IndexImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/PersonImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/util/DbUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/util/Md5Util.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/web/js" charset="GBK" />
     <file url="file://$PROJECT_DIR$/web/jsp/message.jsp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/web/jsp/user.jsp" charset="GBK" />
