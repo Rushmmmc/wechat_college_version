@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.23.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/tomcat-websocket.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/websocket-api.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/AddressBookImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/AddressBookImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/constant/Constant.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/controller/LoginServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/controller/RegisterServlet.java" charset="GBK" />
@@ -27,7 +29,6 @@
     <file url="file://$PROJECT_DIR$/src/com/wechat/po/Photo.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/po/User.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/service/IndexService.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/AddressBookImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/ChatImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/CircleFriendImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/wechat/service/impl/GroupImpl.java" charset="GBK" />
