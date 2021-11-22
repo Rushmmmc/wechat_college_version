@@ -1,6 +1,6 @@
-package com.mywechat.service;
+package com.wechat.service;
 
-import com.mywechat.model.User;
+import com.wechat.po.User;
 
 import java.util.List;
 

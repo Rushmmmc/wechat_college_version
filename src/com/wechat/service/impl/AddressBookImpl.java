@@ -1,14 +1,8 @@
-package com.mywechat.service.impl;
 
-import com.mywechat.dao.AddressBookDao;
-import com.mywechat.dao.UserDao;
-import com.mywechat.dao.impl.AddressBookDaoImpl;
-import com.mywechat.dao.impl.UserDaoImpl;
-import com.mywechat.model.Constant;
-import com.mywechat.model.User;
-import com.mywechat.service.AddressBookService;
 import com.mywechat.util.CountPage;
-import com.sun.xml.internal.bind.v2.runtime.reflect.opt.Const;
+import com.wechat.dao.UserDao;
+import com.wechat.dao.impl.UserDaoImpl;
+import com.wechat.service.AddressBookService;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
