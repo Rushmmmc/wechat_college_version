@@ -1,6 +1,5 @@
 package com.mywechat.dao.impl;
 
-
 import com.mywechat.dao.PhotoDao;
 import com.mywechat.model.Photo;
 import com.mywechat.util.DbUtil;

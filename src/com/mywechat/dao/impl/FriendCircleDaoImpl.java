@@ -1,9 +1,9 @@
 package com.mywechat.dao.impl;
 
-import com.mywechat.model.Constant;
 import com.mywechat.dao.FriendCircleDao;
 import com.mywechat.model.CircleFriends;
 import com.mywechat.model.Comment;
+import com.mywechat.model.Constant;
 import com.mywechat.util.DbUtil;
 
 import java.sql.ResultSet;

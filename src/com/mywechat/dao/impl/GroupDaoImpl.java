@@ -1,8 +1,7 @@
 package com.mywechat.dao.impl;
 
-
-import com.mywechat.model.Constant;
 import com.mywechat.dao.GroupDao;
+import com.mywechat.model.Constant;
 import com.mywechat.model.Message;
 import com.mywechat.model.User;
 import com.mywechat.util.DbUtil;

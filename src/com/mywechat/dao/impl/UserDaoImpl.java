@@ -1,6 +1,5 @@
 package com.mywechat.dao.impl;
 
-
 import com.mywechat.dao.UserDao;
 import com.mywechat.model.User;
 import com.mywechat.util.DbUtil;
