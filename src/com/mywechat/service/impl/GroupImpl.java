@@ -1,7 +1,9 @@
 package com.mywechat.service.impl;
 
 import com.mywechat.dao.GroupDao;
+import com.mywechat.dao.UserDao;
 import com.mywechat.dao.impl.GroupDaoImpl;
+import com.mywechat.dao.impl.UserDaoImpl;
 import com.mywechat.model.Constant;
 import com.mywechat.model.Message;
 import com.mywechat.model.User;
