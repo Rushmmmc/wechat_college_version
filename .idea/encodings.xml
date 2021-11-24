@@ -19,16 +19,22 @@
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/PhotoDao.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/PhotoDaoImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/impl/ChatDaoImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/impl/FriendCircleDaoImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/impl/GroupDaoImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/impl/PhotoDaoImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/impl/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Chat.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/model/CircleFriends.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Comment.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Group.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Message.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/model/Photo.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/model/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/ChatService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/CircleFriendService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/service/GroupService.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/service/IndexService.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/AddressBookImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/ChatImpl.java" charset="GBK" />
