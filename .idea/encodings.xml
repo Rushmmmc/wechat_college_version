@@ -11,6 +11,8 @@
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/ChatServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/LoginServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/RegisterServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/TraverseSocket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/VerifyCodeServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/AddressBookDao.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/FriendCircleDao.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/dao/FriendCircleDaoImpl.java" charset="GBK" />
