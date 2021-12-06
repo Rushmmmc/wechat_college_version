@@ -50,11 +50,11 @@ public class Constant {
     /**
      * 默认头像的路径
      */
-    public static final String DEFAULTPOR = "../image/headPortrait/";
+    public static final String DEFAULTPOR = "./web/image/headPortrait/";
     /**
      * 默认背景的路径
      */
-    public static final String DEFAULTBG = "../image/background/";
+    public static final String DEFAULTBG = "./web/image/background/";
     /**
      * 用户的肖像
      */
@@ -66,7 +66,7 @@ public class Constant {
     /**
      * 图片的根路径
      */
-    public static final String PATH = "E:\\study\\java\\java-code\\mywechat\\web\\image";
+    public static final String PATH = "./web/image";
     /**
      * 展示图片的最大数
      */

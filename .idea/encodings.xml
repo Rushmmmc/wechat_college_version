@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lib/commons-beanutils-1.7.0.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/commons-collections-3.2.1.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/commons-fileupload-1.3.1.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/commons-io-2.4.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/commons-lang-2.6.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/commons-logging-1.1.3.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/fastjson-1.2.58.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/gson-2.2.4.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/javax.servlet-api-4.0.1.jar" charset="GBK" />
@@ -15,6 +21,7 @@
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/AddressBookServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/ChatServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/PhotoServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/RegisterServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/TraverseSocket.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/VerifyCodeServlet.java" charset="GBK" />
@@ -51,6 +58,7 @@
     <file url="file://$PROJECT_DIR$/src/com/mywechat/service/impl/PersonImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/util/DbUtil.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/util/Md5Util.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/web.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/web/js" charset="GBK" />
     <file url="file://$PROJECT_DIR$/web/jsp/message.jsp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/web/jsp/user.jsp" charset="GBK" />
