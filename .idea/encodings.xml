@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lib/fastjson-1.2.58.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/gson-2.2.4.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/javax.servlet-api-4.0.1.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/jstl-impl.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/jstl.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/mchange-commons-0.2.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.23.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/tomcat-websocket.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/lib/websocket-api.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/config/XssFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mywechat/config/XssHttpServletRequestWrapper.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/AddressBookServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/ChatServlet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/mywechat/controller/LoginServlet.java" charset="GBK" />
